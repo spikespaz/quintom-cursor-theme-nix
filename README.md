@@ -7,6 +7,8 @@ This is an x-cursor theme designed to look decent.
 
 ![](preview.png)
 
+## Preview (White)
+
 ![](preview_white.png)
 
 ## Copying or Reusing
