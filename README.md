@@ -3,6 +3,12 @@ Quintom Cursors
 
 This is an x-cursor theme designed to look decent.
 
+## Preview
+
+![](preview.png)
+
+![](preview_white.png)
+
 ## Copying or Reusing
 
 This project has mixed licencing. You are free to copy, redistribute and/or modify aspects of this work under the terms of each licence accordingly (unless otherwise specified).
