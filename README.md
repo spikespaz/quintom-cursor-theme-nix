@@ -21,7 +21,7 @@ Included scripts are free software licenced under the terms of the [GNU General 
 
 ## Installing & Using
 
-You can install Quintom by copying the Quintom or Quintom_White folder to your icons folder.
+You can install Quintom by copying the Quintom or Quintom_Snow folder to your icons folder.
 
 To install the cursor theme, cd into the downloaded directory, then simply copy the compiled theme to your icons
 directory. For local user installation:
