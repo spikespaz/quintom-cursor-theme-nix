@@ -1,6 +1,6 @@
 #!/bin/sh
 
-THEME=Quintom
+THEME=Quintom_Ink
 DIR="../../.."
 
 # $@ is for the caller to be able to supply arguments to anicursorgen (-s, in particular)

@@ -3,9 +3,9 @@ Quintom Cursors
 
 This is an x-cursor theme designed to look decent.
 
-## Preview
+## Preview (Ink)
 
-![](preview.png)
+![](preview_ink.png)
 
 ## Preview (Snow)
 
@@ -21,13 +21,13 @@ Included scripts are free software licenced under the terms of the [GNU General 
 
 ## Installing & Using
 
-You can install Quintom by copying the Quintom or Quintom_Snow folder to your icons folder.
+You can install Quintom by copying the Quintom_Ink or Quintom_Snow folder to your icons folder.
 
 To install the cursor theme, cd into the downloaded directory, then simply copy the compiled theme to your icons
 directory. For local user installation:
 
 ```
-cp -r 'Quintom Cursors/Quintom' ~/.icons
+cp -r 'Quintom_Ink Cursors/Quintom_Ink' ~/.icons
 ```
 or
 
@@ -40,7 +40,7 @@ cp -r 'Quintom_Snow Cursors/Quintom_Snow' ~/.icons
 For system-wide installation for all users:
 
 ```
-sudo cp -r 'Quintom Cursors/Quintom' /usr/share/icons
+sudo cp -r 'Quintom_Ink Cursors/Quintom_Ink' /usr/share/icons
 ```
 or
 

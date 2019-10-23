@@ -1,7 +1,7 @@
 #!/bin/sh
 
 
-THEME=Quintom
+THEME=Quintom_Ink
 DIR="../../.."
 
 # enter bitmaps folder
