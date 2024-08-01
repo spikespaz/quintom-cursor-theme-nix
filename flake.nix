@@ -84,7 +84,7 @@
         quintom-ink-hyprcursor-theme = pkgs: pkgs0: {
           quintom-ink-hyprcursor-theme = mkHyprcursorTheme pkgs {
             pname = "quintom-ink-hyprcursor";
-            themeName = "Quintom Ink";
+            themeName = "Quintom_Ink";
             version = date;
             src = ./. + "/Quintom_Ink Cursors/Quintom_Ink";
             meta.description = "Quintom Ink Hyprcursor Theme";
@@ -94,7 +94,7 @@
         quintom-snow-hyprcursor-theme = pkgs: pkgs0: {
           quintom-snow-hyprcursor-theme = mkHyprcursorTheme pkgs {
             pname = "quintom-snow-hyprcursor";
-            themeName = "Quintom Snow";
+            themeName = "Quintom_Snow";
             version = date;
             src = ./. + "Quintom_Snow Cursors/Quintom_Snow";
             meta.description = "Quintom Snow Hyprcursor Theme";
